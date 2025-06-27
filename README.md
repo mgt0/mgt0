@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/88/1a/b2/881ab2087dec82bc5aa5b508c648579e.jpg" alt="Banner" width="80%" />
+  <img src="https://i.pinimg.com/originals/b1/86/9e/b1869e87464e08dbc36c32e988508f00.gif" alt="Banner with Centered Text" width="80%" />
 </p>
 
 <h2 align="center">Welcome to My GitHub!</h2>
